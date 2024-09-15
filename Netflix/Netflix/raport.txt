@@ -1,0 +1,72 @@
+Title: Pocahontas, ostatni bieg
+Type: movie
+Director: ja
+Cast:nikt, jessie maciek,Tomasz
+Country:USA
+Date added:November 23, 2020
+Released year: 1990
+Rating: rpg-13
+Duration: 90
+Listed in: gazeta,nobel,bla
+Description: no ,,cos tam
+
+Title: Pies i Kot
+Type: series
+Director: John Doe
+Cast:Actor 1,Actor 2
+Country:USA
+Date added:December 15 2019
+Released year: 2018
+Rating: tv-14
+Duration: 45
+Listed in: Dramas,Action & Adventure
+Description: A thrilling series about...
+
+Title: Koń
+Type: movie
+Director: Jane Smith
+Cast:Actor A,Actor B
+Country:Canada
+Date added:February 10, 2021
+Released year: 2020
+Rating: pg
+Duration: 120
+Listed in: Comedies,Romantic Movies
+Description: A heartwarming comedy about...
+
+Title: Lucyfer
+Type: series
+Director: Michael Johnson
+Cast:Actor X,Actor Y
+Country:UK
+Date added:June 5, 2022
+Released year: 2019
+Rating: tv-ma
+Duration: 60
+Listed in: Crime TV Shows,Documentaries
+Description: An intense crime series...
+
+Title: Egzorcysta
+Type: movie
+Director: Sarah Brown
+Cast:Actor P,Actor Q
+Country:Australia
+Date added:August 20, 2018
+Released year: 2017
+Rating: r
+Duration: 110
+Listed in: Horror Movies,Thrillers
+Description: A chilling horror film...
+
+Title: 2012
+Type: series
+Director: Chris Anderson
+Cast:Actor M,Actor N
+Country:USA
+Date added:May 3, 2023
+Released year: 2022
+Rating: tv-y7
+Duration: 30
+Listed in: Kids' TV,Family Features
+Description: An exciting animated series for kids...'
+
